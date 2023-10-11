@@ -28,4 +28,4 @@ keywords={Event labeling; Event detection; Ensemble learning; Background knowled
 
 
 ## Conclusion
-This was my third project. It is improvable, but it was amazing to work on machine learning.
+This was my third project. It was amazing to work on machine learning.
