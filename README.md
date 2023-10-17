@@ -1,7 +1,7 @@
 # Machine Learning prediction models Project
 
 ## Introduction
-This project is about predicting how many bikes would be used based on weather, date and other information. This could help a bike sharing company to improve their investing having an approach of how many bikes they need to have ready each day.
+This project is about predicting how many bikes would be used in a future, based on weather, date and other information. This could help a bike sharing company to improve their investing having an approach of how many bikes they need to have ready each day.
 Data from company: Capital Bike Sharing (CBS), Washington, D.C., USA.
 
 
