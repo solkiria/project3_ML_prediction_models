@@ -7,11 +7,7 @@ Data from company: Capital Bike Sharing (CBS), Washington, D.C., USA.
 
 ## Materials
 
-- Study based on:
-
-Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, [doi:10.1007/s13748-013-0040-3](http://dx.doi.org/10.1007/s13748-013-0040-3)
- 
-keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
+- Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, [doi:10.1007/s13748-013-0040-3](http://dx.doi.org/10.1007/s13748-013-0040-3) (keywords={Event labeling; Event detection; Ensemble learning; Background knowledge})
 
 
 - Weather forecast obtained from:
