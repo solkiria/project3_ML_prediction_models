@@ -2,7 +2,7 @@
 
 ## Introduction
 This project is about predicting how many bikes would be used in a future, based on weather, date and other information. This could help a bike sharing company to improve their investing having an approach of how many bikes they need to have ready each day, incresing their clients' happiness and decreasing their lost of income.
-Data from company: Capital Bike Sharing (CBS), Washington, D.C., USA.
+Data from company: Capital Bike Sharing (CBS), Washington D.C., USA.
 
 
 ## Materials
